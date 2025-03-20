@@ -43,14 +43,14 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #0071e3; /* Apple blue */
+    color: #0071e3; /* Apple-like blue */
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s;
 }
 
 nav ul li a:hover {
-    color: #005bb5; /* Darker blue on hover */
+    color: #0056b3; /* Darker blue on hover */
 }
 
 main {
