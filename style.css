@@ -5,15 +5,15 @@
 }
 
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f0f4f8;
+    background-color: #f5f5f7;
     color: #333;
 }
 
 header {
-    background: #4CAF50;
-    color: white;
+    background: #ffffff;
+    border-bottom: 1px solid #e1e1e1;
     padding: 20px 0;
     text-align: center;
 }
@@ -43,14 +43,14 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: #0071e3; /* Apple blue */
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s;
 }
 
 nav ul li a:hover {
-    color: #ffeb3b; /* Highlight color on hover */
+    color: #005bb5; /* Darker blue on hover */
 }
 
 main {
@@ -88,7 +88,7 @@ section {
 }
 
 .project a {
-    color: #4CAF50;
+    color: #0071e3;
     text-decoration: none;
 }
 
@@ -104,7 +104,7 @@ footer {
 }
 
 footer a {
-    color: #4CAF50;
+    color: #0071e3;
     text-decoration: none;
 }
 
